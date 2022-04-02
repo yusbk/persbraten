@@ -24,7 +24,7 @@ publishDir = "docs"
   author = "Yusman"
   description = "3NF Persbråten Klassefest"
   shareImage = "images/3nf_logo.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = "3NF"
 
   # Favicon
   favicon = "favicon.ico"
