@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://yusbk.github.io/persbraten"
 languageCode = "en-US"
 title = "Persbråten Klassefesten"
 theme = "hugo-split-theme"
@@ -14,6 +14,9 @@ googleAnalytics = ""
 
 # Copyright
 copyright = "&copy;2021 3NF"
+
+# Use docs folder instead of public
+publishDir = "docs"
 
 [params]
 
