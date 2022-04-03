@@ -27,7 +27,7 @@ publishDir = "docs"
   twitterHandle = "3NF"
 
   # Favicon
-  favicon = "images/favicon.ico"
+  favicon = "favicon.ico"
 
   # Section - Visual
   [params.visual]
