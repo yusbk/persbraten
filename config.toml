@@ -38,12 +38,12 @@ publishDir = "docs"
       file = "img/persbraten2022.png"
       position = "center center"
 
-    # Video
-    [params.visual.video]
-      enable = false
-      mute = true
-      file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
+    # # Video
+    # [params.visual.video]
+    #   enable = false
+    #   mute = true
+    #   file = "videos/background.mp4"
+    #   # youtubeId = "dk9uNWPP7EA"
 
   # Links
   #
