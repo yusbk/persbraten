@@ -13,3 +13,5 @@ Påmelding til Sissel, mailadresse sibay@online.no eller SMS: 928 85 980. Betali
 Vi gleder oss til å se dere alle.
 
 Hilsen Cathrine, Erik, Roy og Sissel
+
+[Bilder]({{< ref "bilder.md" >}})
