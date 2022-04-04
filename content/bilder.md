@@ -2,5 +2,5 @@
 title = "Bilder"
 +++
 
-{{< gallery dir="/images/gallery/" />}} {{< load-photoswipe >}}
+{{< gallery dir="/img/gallery/" />}} {{< load-photoswipe >}}
 {{< gallery hover-effect="grow" >}}

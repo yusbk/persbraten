@@ -23,7 +23,7 @@ publishDir = "docs"
   # Metadata for search engines and social sharing
   author = "Yusman"
   description = "3NF Persbråten Klassefest"
-  shareImage = "images/3nf_logo.jpg"
+  shareImage = "img/3nf_logo.jpg"
   twitterHandle = "3NF"
 
   # Favicon
@@ -35,7 +35,7 @@ publishDir = "docs"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/persbraten2022.png"
+      file = "img/persbraten2022.png"
       position = "center center"
 
     # Video
@@ -50,28 +50,28 @@ publishDir = "docs"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Slik var det:"
+      heading = "Noe å dele..."
 
       [[params.links.list1.link]]
         text = "Bilder"
         url = "https://yusbk.github.io/persbraten/bilder.html"
 
-  #     [[params.links.list1.link]]
-  #       text = "Email"
-  #       url = "#"
+      [[params.links.list1.link]]
+        text = "Video"
+        url = "https://yusbk.github.io/persbraten/video.html"
 
   #     [[params.links.list1.link]]
   #       text = "Newsletter"
   #       url = "#"
 
-  # # Links List #2
-  # [[params.links]]
-  #   [params.links.list2]
-  #     heading = "Social"
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Laste ned"
 
-  #     [[params.links.list2.link]]
-  #       text = "Twitter"
-  #       url = "#"
+      [[params.links.list2.link]]
+        text = "Kortet"
+        url = ""
 
   #     [[params.links.list2.link]]
   #       text = "Instagram"
