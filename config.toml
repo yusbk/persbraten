@@ -71,7 +71,7 @@ publishDir = "docs"
 
       [[params.links.list2.link]]
         text = "Kortet"
-        url = ""
+        url = "https://github.com/yusbk/persbraten/raw/master/static/img/klassefest2022.pdf"
 
   #     [[params.links.list2.link]]
   #       text = "Instagram"
