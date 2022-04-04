@@ -45,16 +45,16 @@ publishDir = "docs"
       file = "videos/background.mp4"
       # youtubeId = "dk9uNWPP7EA"
 
-  # # Links
-  # #
-  # # Links List #1
-  # [[params.links]]
-  #   [params.links.list1]
-  #     heading = "Connect"
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Slik var det:"
 
-  #     [[params.links.list1.link]]
-  #       text = "Blog"
-  #       url = "#"
+      [[params.links.list1.link]]
+        text = "Bilder"
+        url = "https://yusbk.github.io/persbraten/bilder.html"
 
   #     [[params.links.list1.link]]
   #       text = "Email"
